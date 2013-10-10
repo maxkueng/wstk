@@ -1,0 +1,7 @@
+---
+layout: main-layout
+---
+
+<div class="article">
+{{ content }}
+</div>
