@@ -3,9 +3,10 @@ WSTK - The Website Toolkit
 
 **Old Code Warning!**
 
-This code was written somewhere between 2001 and 2004 and hasn't really been touched even since. The first version was even in VBScript!
+This code was written somewhere between 2002 and 2004 and hasn't really been touched ever since.
 
-Even though this code is still running in production in some places and it has never caused any problems, further use is not recommended. It isn't well documented, probably not very straight-forward to use and not maintained any longer. There may be security issues.
+Even though this code is still running in production in some places and it has never caused any problems, further use is not recommended. It isn't well documented, probably not very straight-forward to use and not maintained any longer.  
+There may be security issues.
 
 ## What is it?
 
@@ -207,7 +208,8 @@ Try to read the code and look at the plugins.
 
 MIT License
 
-Copyright (c) 2001 Max Kueng (http://maxkueng.com/)
+Copyright (c) 2002 Max Kueng (http://maxkueng.com/)  
+except third-party libs in wstk/vendor/
  
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
